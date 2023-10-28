@@ -1,0 +1,125 @@
+.amber {
+  background-color: #f59e0b;
+}
+
+.blue {
+  background-color: #0b69ff;
+}
+
+.orange {
+  background-color: #f97316;
+}
+
+.emerald {
+  background-color: #10b981;
+}
+
+.teal {
+  background-color: #14b8a6;
+}
+
+.red {
+  background-color: #b91c1c;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+}
+
+/* Write your CSS here */
+.comment-cont {
+  box-shadow: 0px 2px #94a3b8;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+.upper {
+  display: flex;
+  flex-direction: row;
+}
+.icon {
+  width: 40px;
+  height: 40px;
+  border-radius: 70px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 8px;
+}
+.letter {
+  text-align: center;
+  font-size: 13px;
+  font-weight: bold;
+  color: black;
+  font-family: 'Roboto';
+}
+.cont {
+  display: flex;
+  flex-direction: column;
+}
+.name-time {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.name {
+  margin-right: 5px;
+  font-size: 15px;
+  font-weight: bold;
+  color: black;
+  font-family: 'Roboto';
+}
+.time {
+  font-size: 10px;
+  font-weight: bold;
+  color: #94a3b8;
+  font-family: 'Roboto';
+}
+.comment {
+  font-size: 11px;
+  font-weight: bold;
+  color: #64748b;
+  font-family: 'Roboto';
+}
+.like-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.btn {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-size: 11px;
+  font-weight: bold;
+  color: #0ea5e9;
+  font-family: 'Roboto';
+}
+.like-btn {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-size: 11px;
+  font-weight: bold;
+  color: #64748b;
+  font-family: 'Roboto';
+}
+.like {
+  margin-right: 3px;
+}
+.delete-btn {
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
+}
