@@ -19,7 +19,7 @@ const CommentItem = props => {
         <div className={`icon ${className}`}>
           <h1 className="letter">{name[0]}</h1>
         </div>
-        <div className="cont">
+        <div className="cont-item">
           <div className="name-time">
             <h1 className="name">{name}</h1>
             <p className="time">{time}</p>

@@ -54,7 +54,7 @@
   color: black;
   font-family: 'Roboto';
 }
-.cont {
+.cont-item {
   display: flex;
   flex-direction: column;
 }
